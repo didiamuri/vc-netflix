@@ -14,7 +14,29 @@
     height: 100vh;
     color: white;
 }
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 56px;
+    padding-top: 25px;
+}
+nav img {
+    height: 36px
+}
+nav .sign-in-btn {
+    padding: 7px 17px;
+    background: red;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+.banner-container {
 
+}
+.banner-container > h1 {
+
+}
 .title {
     font-size: 3.125rem;
 }
