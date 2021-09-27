@@ -4,5 +4,5 @@
 
 ## View the Demo
 
-![Alt text](https://idi-netflix.netlify.app/)
+[Demo](https://idi-netflix.netlify.app/).
 
